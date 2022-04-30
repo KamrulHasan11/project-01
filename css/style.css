@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Start Header Section CSS Style */
+.header-section{
+    display: flex;
+}
+.header-left-part{
+    width: 50%;
+    padding: 220px 50px 97px 100px;
+    text-align: right;
+}
+.header-left-part h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    line-height: 2em;
+}
+.header-left-part p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-right-part {
+    padding-top: 100px;
+}
+.header-right-part img{
+    width: 550px;
+}
+/* End Header Section CSS Style */
+
+/* Start Skill Section CSS Style */
+.skill-section{
+    padding: 0px 100px;
+    border: 1px dashed black;
+    padding: 65px 0px;
+}
+.skills{
+    width: 25%;
+    text-align: center;
+    padding: 0px 20px;
+}
+.skills h3{
+    border-top: 1px dashed black;
+    padding: 20px;
+    font-size: 2em;
+    font-family: arial;
+}
+.skills p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill-section h1{
+    font-size: 2em;
+}
+.skill-section h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill-pera{
+    text-align: center;
+}
+.android-skill img{
+    width: 45px;
+}
+.skills-wrap{
+    display: flex;
+    padding: 100px 0px;
+}
+/* End Skill Section CSS Style */
+
+
+/* Start About Section CSS Style */
+.about{
+    padding: 75px 0px;
+}
+.about-main-content{
+    display: flex;
+    padding: 100px 100px 0px 100px;
+}
+.about h1{
+    color: #F56108;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+}
+.about-main-pera {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 0px 270px;
+}
+.about-image{
+    margin-right: 30px;
+}
+.about-image img{
+    width: 523px;
+}
+/* End About Section CSS Style *?
